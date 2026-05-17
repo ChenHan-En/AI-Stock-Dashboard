@@ -4,7 +4,7 @@ pandas
 numpy
 plotly
 scikit-learn
-tensorflow-cpu
+tensorflow
 feedparser
 requests
 ta
